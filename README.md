@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey there!
 I’m a 2nd year Computer Science student at Manipal Institute of Technology, Bengaluru. I am passionate about learning and exploring software development. I enjoy working on projects that help me strengthen my fundamentals and turn ideas into practical solutions. I’m constantly improving my skills by experimenting with new technologies, solving problems, and learning through hands-on experience.
 
 
