@@ -4,11 +4,8 @@ I'm a 3rd year Computer Science student at Manipal Institute of Technology, Beng
 ## 🌟 About Me
 
 - 🔭 I’m currently working on Machine Learning and Data Analytics projects  
-
 - 🤝 I’m looking to collaborate on AI/ML, Web Development, and Open Source projects  
-
 - 🧠 I’m currently learning Data Structures & Algorithms, Machine Learning, and Full Stack Development  
-
 - 📊 I enjoy building data-driven projects and solving real-world problems using technology  
 
 
