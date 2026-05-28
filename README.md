@@ -1,7 +1,16 @@
 # 💫 Hey there!
 I'm a 3nd year Computer Science student at Manipal Institute of Technology, Bengaluru. I am passionate about learning and exploring software development. I enjoy working on projects that help me strengthen my fundamentals and turn ideas into practical solutions. I'm constantly improving my skills by experimenting with new technologies, solving problems, and learning through hands-on experience.
 
-## 🌟 About Me<br><br>🔭 I’m currently working on Machine Learning and Data Analytics projects  🤝 I’m looking to collaborate on AI/ML, Web Development, and Open Source projects  🧠 I’m currently learning Data Structures & Algorithms, Machine Learning, and Full Stack Development  📊 I enjoy building data-driven projects and solving real-world problems using technology 
+## 🌟 About Me
+
+- 🔭 I’m currently working on Machine Learning and Data Analytics projects  
+
+- 🤝 I’m looking to collaborate on AI/ML, Web Development, and Open Source projects  
+
+- 🧠 I’m currently learning Data Structures & Algorithms, Machine Learning, and Full Stack Development  
+
+- 📊 I enjoy building data-driven projects and solving real-world problems using technology  
+
 
 
 ## 🌐 Socials:
